@@ -3,7 +3,7 @@ import QueryBuilder from './components/QueryBuilder.vue'
 </script>
 
 <template>
-  <header class="pb-10 text-xl flex justify-center">SQL Query Executor</header>
+  <header class="w-screen flex justify-center text-xl pb-10">SQL Query Executor</header>
 
   <main>
     <QueryBuilder />
